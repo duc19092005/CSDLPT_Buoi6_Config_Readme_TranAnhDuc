@@ -1,0 +1,6 @@
+@CSDLPT_Tuan6_API_HostAddress = http://localhost:5007
+
+GET {{CSDLPT_Tuan6_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
